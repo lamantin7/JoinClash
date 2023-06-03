@@ -17,6 +17,7 @@ namespace Input.Touches
 		{
 			Begun?.Invoke(new Touch());
 			_holdingRoutine = StartCoroutine(ProcessHoldingInput());
+			
 		}
 
 		public void OnPointerUp(PointerEventData eventData)
