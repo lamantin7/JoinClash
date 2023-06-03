@@ -13,7 +13,7 @@ namespace GameStates.States
 
         private readonly IAsyncSceneLoading _sceneLoading;
 
-        public BootstrapState(Scene gym, IAsyncSceneLoading sceneLoadin, Scene menu)
+        public BootstrapState(Scene gym,  Scene menu, IAsyncSceneLoading sceneLoadin)
         {
             _level = gym;
             _sceneLoading = sceneLoadin;
