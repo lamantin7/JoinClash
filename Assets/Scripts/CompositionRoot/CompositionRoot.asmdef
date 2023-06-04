@@ -1,0 +1,18 @@
+{
+    "name": "CompositionRoot",
+    "rootNamespace": "",
+    "references": [
+        "GUID:700ce3631b24e0c4bb74f05ba747f4bd",
+        "GUID:11cfd0ac625bf81489f91fd2836b5e52",
+        "GUID:72cec33592f673e41a02fa6f0f3eb499"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
